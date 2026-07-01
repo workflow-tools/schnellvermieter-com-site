@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <polygon
+    points="48,80 464,80 256,464"
+    fill="#FAFAF9"
+    stroke="#2C241B"
+    stroke-width="20"
+    stroke-linejoin="round"
+  />
+
+  <circle cx="180" cy="200" r="56" fill="none" stroke="#2C241B" stroke-width="20" />
+  <circle cx="332" cy="200" r="56" fill="none" stroke="#2C241B" stroke-width="20" />
+  <line x1="236" y1="200" x2="276" y2="200" stroke="#2C241B" stroke-width="20" stroke-linecap="round" />
+  <line x1="216" y1="300" x2="296" y2="300" stroke="#2C241B" stroke-width="20" stroke-linecap="round" />
+</svg>
