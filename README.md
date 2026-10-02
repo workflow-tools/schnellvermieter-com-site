@@ -1,5 +1,13 @@
 # schnellvermieter-com-site
 
+> **Status (2026-10-02): hibernated.** schnellvermieter.de and
+> schnellvermieter.at are parked (owner decision, ML Upskill Agents UG wind-down),
+> so `index.html` no longer offers the country choice: it shows a short
+> "derzeit nicht verfügbar" notice (`noindex`) with the contact address and the
+> Impressum link. The country-selector version below is in the git history —
+> restore it when the country sites come back. The domain was not serving this
+> page as of that date (DNS not yet pointed at GitHub Pages).
+
 Static country-selector hub for `schnellvermieter.com` — the `x-default` SEO
 entry point for the Schnellvermieter brand. It carries no product logic, no
 forms, no checkout, and no analytics. It routes visitors to
